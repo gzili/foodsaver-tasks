@@ -11,9 +11,9 @@
 ## Compliance with requirements
 
 - [ ] Standard property
-- [ ] Named arguments
-- [ ] Optional arguments
-- [ ] Extension method
-- [ ] Widening type casts
-- [ ] Narrowing type casts
-- [ ] Standard interfaces (IEquatable already implemented, could implement IComparable for entities)
+- [x] Named arguments (OffersController, Create())
+- [ ] Optional arguments (nerandu, kur panaudot, nes visur reikalingi tie argumentai)
+- [ ] Extension method (siūlau šito nedaryt)
+- [x] Widening type casts (OffersController, Create())
+- [ ] Narrowing type casts (nesugalvoju kur šitą panaudot, nes mes neturim normalių base klasių...)
+- [x] Standard interfaces (IEquatable already implemented, IComparable for Offer)
