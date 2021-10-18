@@ -12,7 +12,7 @@
 
 - [ ] Standard property
 - [x] Named arguments (OffersController, Create())
-- [ ] Optional arguments (nerandu, kur panaudot, nes visur reikalingi tie argumentai)
+- [x] Optional arguments (FileService, SerliazeJson())
 - [ ] Extension method (siūlau šito nedaryt)
 - [x] Widening type casts (OffersController, Create())
 - [ ] Narrowing type casts (nesugalvoju kur šitą panaudot, nes mes neturim normalių base klasių...)
